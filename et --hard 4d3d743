@@ -1,0 +1,9 @@
+[33maecb273[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m HEAD@{0}: reset: moving to aecb2730d93019b52e5ae006e395c4a51475e236
+[33m4d3d743[m[33m ([m[1;31morigin/main[m[33m)[m HEAD@{1}: commit: setup: gallery project ready for deploy
+[33mef9d873[m HEAD@{2}: commit: chore: restore deploy script
+[33maecb273[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m HEAD@{3}: reset: moving to aecb2730d93019b52e5ae006e395c4a51475e236
+[33m4ec2144[m HEAD@{4}: commit: cleanup: remove old code
+[33maecb273[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m HEAD@{5}: commit: fix: use relative script path for GitHub Pages
+[33maa4f638[m HEAD@{6}: commit: fix: set base path for GitHub Pages
+[33mced22ad[m HEAD@{7}: Branch: renamed refs/heads/master to refs/heads/main
+[33mced22ad[m HEAD@{9}: commit (initial): first commit
